@@ -18,7 +18,6 @@ namespace PdDeneme3
             InitializeComponent();
         }
         string text;
-        object font = new object();
         private void btn_Click(object sender, EventArgs e)
         {
             using (OpenFileDialog ofd = new OpenFileDialog()
@@ -207,6 +206,7 @@ namespace PdDeneme3
                         break;
                     }
                 }
+
                 bool kaynakTamMi = false; // buradaki değişken ise tanımlanmamış bir kaynağa atıf yapılıp yapılmadığını gösterir.
                 for (int i = 0; i < atif.Length; i++)
                 {
