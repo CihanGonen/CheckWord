@@ -1,0 +1,10 @@
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\obj\Debug\PdDeneme3.csprojAssemblyReference.cache
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\obj\Debug\PdDeneme3.Form1.resources
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\obj\Debug\PdDeneme3.Properties.Resources.resources
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\obj\Debug\PdDeneme3.csproj.GenerateResource.cache
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\obj\Debug\PdDeneme3.csproj.CoreCompileInputs.cache
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\bin\Debug\PdDeneme3.exe.config
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\bin\Debug\PdDeneme3.exe
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\bin\Debug\PdDeneme3.pdb
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\obj\Debug\PdDeneme3.exe
+C:\Users\cihan\source\repos\PdDeneme3\PdDeneme3\obj\Debug\PdDeneme3.pdb
